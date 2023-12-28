@@ -1,2 +1,5 @@
-exports.Server = require('./server/server');
-exports.Router = require('./server/router');
+const {Server} = require('./server/server');
+const {Router} = require('./server/router');
+
+exports.Server = Server;
+exports.Router = Router;
