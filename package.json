@@ -1,5 +1,5 @@
 {
-  "name": "@los3rboy/Socket",
+  "name": "@los3rboy/socket",
   "version": "1.0.0-0",
   "description": "A light, fast & clean Socket.io like WebSocket library for Node.js and browser",
   "main": "index.js",
