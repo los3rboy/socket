@@ -1,6 +1,6 @@
 {
   "name": "@los3rboy/socket",
-  "version": "1.0.0-0",
+  "version": "1.0.1-0",
   "description": "A light, fast & clean Socket.io like WebSocket library for Node.js and browser",
   "main": "index.js",
   "module": "index.mjs",
@@ -23,7 +23,11 @@
   ],
   "files": [
       "src",
-      "dist"
+      "dist",
+      "server",
+      "index.js",
+      "minify.sh",
+      "rollup.config.mjs"
   ],
   "author": "l0s3rboy",
   "license": "MIT",
