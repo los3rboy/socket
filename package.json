@@ -1,0 +1,34 @@
+{
+  "name": "@los3rboy/Socket",
+  "version": "1.0.0-0",
+  "description": "A light, fast & clean Socket.io like WebSocket library for Node.js and browser",
+  "main": "index.js",
+  "module": "index.mjs",
+  "browser": "dist/socket.esm.js",
+  "scripts": {
+    "build": "rollup -c && bash minify.sh",
+    "test": "jest test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/l0s3rboy/socket.git"
+  },
+  "keywords": [
+    "websocket",
+    "socket",
+    "socket.io",
+    "browser",
+    "nodejs",
+    "express"
+  ],
+  "files": [
+      "src",
+      "dist"
+  ],
+  "author": "l0s3rboy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/l0s3rboy/socket/issues"
+  },
+  "homepage": "https://github.com/l0s3rboy/socket#readme"
+}
