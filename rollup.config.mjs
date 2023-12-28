@@ -16,6 +16,17 @@ config.push({
 	],
 	//plugins: []
 })
+config.push({
+	input: 'src/parser.js',
+	output: [
+		{
+			file: 'dist/parser.esm.js',
+			format: 'es',
+			//plugins: []
+		}
+	],
+	//plugins: []
+})
 
 config.push({
 	input: 'src/browser.js',
