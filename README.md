@@ -1,4 +1,4 @@
-<img src='https://github.com/los3rboy/socket/blob/main/Photo_1704020545220.png' style='width: 150px; height: 150px;' alt='SocketJS Logo.png'/>
+![SocketJS Logo.png](https://github.com/los3rboy/socket/blob/main/Photo_1704020545220.png)
 
 # Socket
 
