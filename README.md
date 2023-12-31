@@ -1,5 +1,3 @@
-<p align="center"><img width="200" height="70" src="https://raw.github.com/los3rboy/socket/main/socket-logo.png" /></p>
-
 [![npm](http://img.shields.io/npm/v/@los3rboy/socket.svg)](https://www.npmjs.com/package/@los3rboy/socket)
 [![release](https://img.shields.io/github/release/los3rboy/socket.svg)](https://github.com/los3rboy/socket)
 [![license](http://img.shields.io/npm/l/@los3rboy/socket.svg)](https://github.com/los3rboy/socket/blob/main/LICENSE)
