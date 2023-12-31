@@ -1,3 +1,7 @@
+<img src='https://github.com/los3rboy/socket/blob/main/Photo_1704020545220.png' style='width: 150px; height: 150px;' alt='SocketJS Logo.png'/>
+
+# Socket
+
 [![npm](http://img.shields.io/npm/v/@loserboy/socket.svg)](https://www.npmjs.com/package/@los3rboy/socket)
 [![release](https://img.shields.io/github/release/los3rboy/socket.svg)](https://github.com/los3rboy/socket)
 [![license](http://img.shields.io/npm/l/@los3rboy/socket.svg)](https://github.com/los3rboy/socket/blob/main/LICENSE)
